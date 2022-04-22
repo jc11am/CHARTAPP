@@ -23,5 +23,5 @@ Make sure you have Node.js and npm install
 
 # Screen shot
 
-![join](C:\Users\Sandy\New folder\Chat\public\img\joinchat.png)
-![ingroup](C:\Users\Sandy\New folder\Chat\public\img\ingroup.png)
+![join](public\img\joinchat.png)
+![ingroup](public\img\ingroup.png)
